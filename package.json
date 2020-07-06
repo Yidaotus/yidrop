@@ -1,0 +1,19 @@
+{
+  "name": "yidrop",
+  "version": "1.0.0",
+  "description": "A simple dropdown component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [
+    "dropdown"
+  ],
+  "author": "Daniel Voigt <yidaotus@protonmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vue": "^2.6.11",
+    "vue-property-decorator": "^9.0.0"
+  }
+}
